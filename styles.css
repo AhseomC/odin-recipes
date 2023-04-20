@@ -18,6 +18,13 @@
   rotate: 90deg;
 } 
 
+.Description,
+.Ingredients,
+.Directions {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+}
+
 
 
 /* 
