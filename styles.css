@@ -12,6 +12,8 @@
 .Menu {
   color: black;
   text-decoration: none;
+  background-color: aqua;
+  margin: ;
 }
 
 .Oyakodon .Picture {
@@ -25,7 +27,9 @@
   font-size: 20px;
 }
 
-
+.Link-list {
+  list-style: none;
+}
 
 /* 
     Properties: background-color, color, font-family, font-size, font-weight, text-align, height, width
